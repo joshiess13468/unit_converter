@@ -21,13 +21,13 @@ You can install the library as a package:
 To install via `pip`, simply use the following command:
 
 ```bash
-pip install unit-converter-library
+pip install my_unit-converter
 ```
 
 Alternatively, you can clone the repository and install it locally:
 
 ```bash
-git clone https://github.com/yourusername/unit-converter-library.git
+git clone https://github.com/joshiess13468/unit_converter.git
 cd unit-converter-library
 python setup.py install
 ```
